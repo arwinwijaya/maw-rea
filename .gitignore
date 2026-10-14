@@ -1,0 +1,6 @@
+# Reverse-engineering workspace (large / local-only artifacts)
+work/
+rea-source/
+*.apk
+*.apks
+*.jar
