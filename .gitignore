@@ -4,3 +4,4 @@ rea-source/
 *.apk
 *.apks
 *.jar
+!android-app/gradle/wrapper/gradle-wrapper.jar

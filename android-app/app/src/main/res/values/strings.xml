@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catatan Harian</string>
+    <string name="transaksi_baru">Catat Transaksi</string>
+    <string name="akun">Akun Kas</string>
+    <string name="ringkasan">Ringkasan</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="transfer">Transfer</string>
+    <string name="simpan">Simpan</string>
+</resources>

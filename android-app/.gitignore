@@ -1,0 +1,9 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+*.log
+
+# Wrapper JAR must be tracked even though the repository root ignores *.jar.
+!gradle/wrapper/gradle-wrapper.jar
